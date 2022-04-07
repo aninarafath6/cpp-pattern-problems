@@ -1,4 +1,6 @@
 #include <iostream>
+using namespace std;
+
 #include "pattern-1.cpp"
 #include "pattern-2.cpp"
 #include "pattern-3.cpp"
@@ -8,8 +10,7 @@
 #include "pattern-7.cpp"
 #include "pattern-8.cpp"
 #include "pattern-9.cpp"
-
-using namespace std;
+#include "pattern-10.cpp"
 
 int main()
 {
@@ -21,5 +22,22 @@ int main()
     // pattern6();
     // pattern7();
     // pattern8();
-    pattern9();
+    // pattern9();
+    pattern10();
 }
+// output:-
+// *****
+// *
+// *
+// **********
+// *
+// *
+// *
+// *
+// ***************
+// *
+// *
+// *
+// *
+// *
+// *
