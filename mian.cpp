@@ -11,7 +11,9 @@ using namespace std;
 // #include "pattern-8.cpp"
 // #include "pattern-9.cpp"
 // #include "pattern-10.cpp"
-#include "pattern-11.cpp"
+// #include "pattern-11.cpp"
+// #include "pattern-12.cpp"
+#include "pattern-13.cpp"
 
 int main()
 {
@@ -25,21 +27,6 @@ int main()
     // pattern8();
     // pattern9();
     // pattern10();
-    pattern11();
+    // pattern12();
+    pattern13();
 }
-// output:-
-// *****
-// *
-// *
-// **********
-// *
-// *
-// *
-// *
-// ***************
-// *
-// *
-// *
-// *
-// *
-// *
