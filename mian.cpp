@@ -18,7 +18,8 @@ using namespace std;
 // #include "pattern-15.cpp"
 // #include "pattern-16.cpp"
 // #include "pattern-17.cpp"
-#include "pattern-18.cpp"
+// #include "pattern-18.cpp"
+#include "pattern-19.cpp"
 
 int main()
 {
@@ -38,5 +39,6 @@ int main()
     // pattern15();
     // pattern16();
     // pattern17();
-    pattern18();
+    // pattern18();
+    pattern19();
 }
