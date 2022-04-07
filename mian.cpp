@@ -6,6 +6,7 @@
 #include "pattern-5.cpp"
 #include "pattern-6.cpp"
 #include "pattern-7.cpp"
+#include "pattern-8.cpp"
 
 using namespace std;
 
@@ -17,5 +18,6 @@ int main()
     // pattern4();
     // pattern5();
     // pattern6();
-    pattern7();
+    // pattern7();
+    pattern8();
 }
